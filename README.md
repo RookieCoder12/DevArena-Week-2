@@ -25,4 +25,4 @@ python grade_calculator.py
 ```
 
 ## Structure
-This project implies the use of <b>if-else</b> condition for grading logic. The grading logic is encapsuled inside a function displaying the practical use of knowledge gained on functions.
+This project implies the use of <b>if-else</b> condition for grading logic. The grading logic is encapsuled inside a function displaying the practical use of knowledge gained on functions

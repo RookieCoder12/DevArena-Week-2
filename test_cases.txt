@@ -1,0 +1,54 @@
+Test Case 1:
+    Input:
+        Name: walter
+        Marks: 85
+
+    Output:
+        📊 Result for Walter : 
+        Marks: 85
+        Grade: B
+        Message: Very Good, Keep it up.
+
+Test Case 2:
+    Input:
+        Name: alice
+        Marks: 98
+
+    Output:
+        📊 Result for Alice : 
+        Marks: 98
+        Grade: A
+        Message: Excellent, keep up the good work.
+
+Test Case 3:
+    Input:
+        Name: alex
+        Marks: 73
+
+    Output:
+        📊 Result for Alex : 
+        Marks: 73
+        Grade: C
+        Message: Keep Going, You can improve.
+
+Test Case 4:
+    Input:
+        Name: william
+        Marks: 68
+
+    Output:
+        📊 Result for William : 
+        Marks: 68
+        Grade: D
+        Message: Put in some work.
+
+Test Case 5:
+    Input:
+        Name: roy
+        Marks: 50
+
+    Output:
+        📊 Result for Roy : 
+        Marks: 50 
+        Grade: E
+        Message: You need to work a lot more harder.               
