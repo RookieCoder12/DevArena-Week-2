@@ -52,3 +52,11 @@ Test Case 5:
         Marks: 50 
         Grade: E
         Message: You need to work a lot more harder.               
+
+Test Case 6:
+    Input:
+        Name: ye
+        Marks: power
+
+    Output:
+        Invalid input. Please enter a valid integer.
