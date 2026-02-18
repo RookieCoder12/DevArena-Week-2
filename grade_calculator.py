@@ -1,5 +1,10 @@
 name = str(input("Enter the name: "))
-marks = int(input("Enter the number: "))
+
+try:
+    marks = int(input("Enter the number: "))
+except ValueError:
+    print("Invalid input. Please enter a valid integer.")
+    exit()
 
 def grade_calculator(m : int):
     if m > 100:
