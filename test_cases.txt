@@ -50,7 +50,7 @@ Test Case 5:
     Output:
         📊 Result for Roy : 
         Marks: 50 
-        Grade: E
+        Grade: F
         Message: You need to work a lot more harder.               
 
 Test Case 6:
