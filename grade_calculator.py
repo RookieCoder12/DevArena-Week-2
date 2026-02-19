@@ -23,7 +23,7 @@ def grade_calculator(m : int):
             print("Grade: D")
             print("Message: Put in some work.")
         else:
-            print("Grade: E")
+            print("Grade: F")
             print("Message: You need to work a lot more harder.")
 
 print(f"📊 Result for {name.capitalize()}: ")
